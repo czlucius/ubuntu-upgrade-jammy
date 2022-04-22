@@ -28,3 +28,7 @@ Save the file.
 ## 2. Check and install the upgrade
 
 In a terminal window, type `do-release-upgrade` to fetch the upgrades from Ubuntu(Canonical)'s servers. Accept all prompts and the upgrade should be installed.
+
+
+Thanks!  
+Star/watch the repo if this is helpful
