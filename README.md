@@ -31,4 +31,4 @@ In a terminal window, type `do-release-upgrade` to fetch the upgrades from Ubunt
 
 
 Thanks!  
-Star/watch the repo if this is helpful
+Star/watch the repo if this is helpful.
