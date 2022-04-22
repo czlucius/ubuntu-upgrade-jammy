@@ -1,6 +1,6 @@
 # Upgrade Ubuntu to 22.04 Jammy Jellyfish
 
-Currently, Ubuntu's Software & Updates does not detect the upgrade for Jammy Jellyfish 22.04.  
+Currently, Ubuntu's Software & Updates application does not detect the upgrade for Jammy Jellyfish 22.04, released on 22/4.  
 This temporary fix exposes 22.04 stable to Ubuntu so it can upgrade.
 
 ## 1. Changing the upgrade link
